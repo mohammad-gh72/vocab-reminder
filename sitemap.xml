@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yourdomain.com/</loc>
+    <loc>https://vocab-reminder.onrender.com/</loc>
     <lastmod>2025-08-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://yourdomain.com/?lang=es</loc>
+    <loc>https://vocab-reminder.onrender.com/?lang=es</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yourdomain.com/?lang=fr</loc>
+    <loc>https://vocab-reminder.onrender.com/?lang=fr</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yourdomain.com/?lang=de</loc>
+    <loc>https://vocab-reminder.onrender.com/?lang=de</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://yourdomain.com/?lang=fa</loc>
+    <loc>https://vocab-reminder.onrender.com/?lang=fa</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
